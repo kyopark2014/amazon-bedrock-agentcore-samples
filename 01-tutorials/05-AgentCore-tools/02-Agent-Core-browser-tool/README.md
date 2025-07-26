@@ -8,7 +8,7 @@ Amazon Bedrock AgentCore Browser Tool provides AI agents with a secure, fully ma
 
 A browser tool sandbox is a secure execution environment that enables AI agents to safely interact with web browsers. When a user makes a request, the Large Language Model (LLM) selects appropriate tools and translates commands. These commands are executed within a controlled sandbox environment containing a headless browser and hosted library server (using tools like Playwright). The sandbox provides isolation and security by containing web interactions within a restricted space, preventing unauthorized system access. The agent receives feedback through screenshots and can perform automated tasks while maintaining system security. This setup enables safe web automation for AI agents
 
-![architecture local](../02-Agent-Core-browser-tool/images/browser-tool.png)
+![architecture local](../01-file-operations-using-code-interpreter/browser-tool.png)
 
 ## Key Features
 
